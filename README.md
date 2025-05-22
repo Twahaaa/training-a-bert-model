@@ -226,5 +226,7 @@ Use the `save_ckp()` function to save to `checkpoint.pt` and `best_model.pt`.
 ## ✍️ Author
 
 Built by Twaha 
-Cridit: https://www.youtube.com/watch?v=f-86-HcYYi8&t=2263s 
+
+Credit: https://www.youtube.com/watch?v=f-86-HcYYi8&t=2263s 
+
 Feel free to contribute or raise an issue!
